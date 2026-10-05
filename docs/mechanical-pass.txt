@@ -1,0 +1,16 @@
+✔ unknown records access is never upgraded (0.851274ms)
+✔ backup authorizes only with channel and review (0.256465ms)
+✔ both unavailable blocks export (0.103621ms)
+✔ stale approval blocks export (0.085468ms)
+✔ full cost and invalid numeric inputs (0.187631ms)
+✔ SHA-256 deterministic and changes with evidence (7.67878ms)
+✔ draft includes uncertainty and never guarantees safety (0.300953ms)
+✔ corrected legitimate email appears in patient draft (0.146287ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 92.382222
