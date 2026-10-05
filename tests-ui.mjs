@@ -17,3 +17,9 @@ test('changing evidence requires a fresh text review and disables export immedia
  get('correction').value='checked';get('correction').handlers.change();
  assert.equal(get('review').checked,false);assert.equal(get('download').disabled,true);
 });
+test('approved export offers copyable text and evidence changes clear it',async()=>{
+ const get=await setup();get('channel').checked=true;get('review').checked=true;get('approve').onclick();get('download').onclick();
+ assert.equal(get('exportPanel').hidden,false);assert.match(get('exportText').value,/ENSAYO/);assert.match(get('exportText').value,/Fecha de aprobación \(UTC\):/);
+ get('correction').value='checked';get('correction').handlers.change();await new Promise(resolve=>setTimeout(resolve,20));
+ assert.equal(get('exportPanel').hidden,true);assert.equal(get('exportText').value,'');
+});

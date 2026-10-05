@@ -23,3 +23,6 @@
 
 ## Cierre: prueba en URL y persona por capturas
 Se comprobó en navegador: aprobación por Carlos; corrección desmarca revisión y deshabilita exportación; cambio de canal desmarca comprobación y bloquea exportación; 10 horas da margen -1500 MXN; campo vacío rechaza cálculo. Descarga: evento del navegador agotó 8 segundos, no confirmada. Persona sintética Elena (46), seis capturas reales: peor bloqueo fue instrucción ambigua sin responsables. Se cambió por acción y destinatario explícitos; también se precisó comprobación del directorio. Pendientes: descarga manual, video real, exportación completa del chat y acceso del profesor. Mañana: confirmar descarga TXT en navegador del usuario.
+
+## Cierre: acceso público y alternativa de exportación
+Usuaria autorizó acceso público; política confirmada public el 4 de octubre. El evento de descarga en navegador público agotó 15 segundos; no se afirma descarga verificada. Se añadió texto aprobado visible y seleccionable como alternativa, borrado al invalidar aprobación. Mañana: grabar demo 3:30 y exportar conversación completa.
