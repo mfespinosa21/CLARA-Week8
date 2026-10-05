@@ -20,3 +20,6 @@
 - Live browser inspection reached ChatGPT sign-in; screenshot persona test remains blocked on authentication.
 - GitHub public repository creation was rejected by automatic approval review; explicit user approval is pending.
 - Tomorrow's first move: authenticate live UI, capture screenshots, run fresh screenshot persona walkthrough, record 3:30 video and export original full development chat.
+
+## Cierre: prueba en URL y persona por capturas
+Se comprobó en navegador: aprobación por Carlos; corrección desmarca revisión y deshabilita exportación; cambio de canal desmarca comprobación y bloquea exportación; 10 horas da margen -1500 MXN; campo vacío rechaza cálculo. Descarga: evento del navegador agotó 8 segundos, no confirmada. Persona sintética Elena (46), seis capturas reales: peor bloqueo fue instrucción ambigua sin responsables. Se cambió por acción y destinatario explícitos; también se precisó comprobación del directorio. Pendientes: descarga manual, video real, exportación completa del chat y acceso del profesor. Mañana: confirmar descarga TXT en navegador del usuario.
